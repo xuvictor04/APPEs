@@ -38,50 +38,60 @@ eligible to begin APPEs.
 
 ---
 
-## NIH Clinical Center — Pharmacy Department APPE
+## NIH Clinical Center — Pharmacy Department ⚠️ status corrected
 
 **Location:** Bethesda, MD
-**Reported deadline:** **October 31**
-**Link:** [NIH CC clinical electives](https://www.cc.nih.gov/training/students/clinical_electives)
+**Status (verified July 2026):** **direct department inquiry / school-arranged.**
+**No current public APPE application or deadline verified.**
+**Phone:** 301-496-4363
+**Link:** [NIH Clinical Center Pharmacy Department](https://www.cc.nih.gov/pharmacy) ·
+[clinical electives](https://www.cc.nih.gov/training/students/clinical_electives)
 
-**Rotation types reported:**
-- Administration
-- Drug information / drug policy
-- Pharmacy informatics
-- Inpatient pharmacy operations
-- Outpatient pharmacy operations
-- Pharmacokinetics / clinical research / clinical pharmacology
+> ⚠️ **Correction.** An **October 31 deadline** circulates widely for this program — I had it
+> in an earlier draft of these docs. The July 2026 link-verified review found that *"the prior
+> October 31 deadline and old PDF were not confirmed on the current official department page."*
+> Do not build your calendar around that date.
 
-**Application:** CV plus a letter of intent, submitted with a specific file-naming
-convention (the NIH page specifies it — follow it exactly, it's a screening step).
-Applications have historically gone to the Clinical Center pharmacy education contact;
-**pull the current email off the NIH page rather than reusing one from a forum post.**
+**How to pursue instead:** have your **experiential office** contact the Pharmacy Department
+directly to ask (a) whether visiting APPE placements are available for the cycle you want, and
+(b) whether an affiliation agreement can be established. This is an OEE-to-department
+conversation, not a student application.
 
-**International students:** NIH has historically welcomed them with an explicit caveat —
-additional paperwork, longer processing, and a real risk of delay or cancellation. If you
-need a visa accommodation, apply early and keep a backup rotation.
+**Program context:** the NIH Clinical Center Pharmacy supports approximately **1,000 clinical
+studies** and manages both commercial and investigational medications — the investigational
+drug work is the distinctive part, and it's hard to get anywhere else at this scale.
 
-**Adjacent NIH options:** the **National Cancer Institute** and other institutes host
-research-focused trainees; NIH's IRTA/postbac programs are a separate (non-APPE) pathway
-worth knowing about if research is your endgame.
+**Rotation areas historically described:** administration; drug information / drug policy;
+pharmacy informatics; inpatient and outpatient operations; and pharmacokinetics / clinical
+research / clinical pharmacology.
 
----
+**International students:** NIH has historically accommodated them with extra processing time
+and real cancellation risk. Apply early and keep a backup.
 
-## CDC — Pharmacy Student Experiential Program
+**Adjacent NIH options:** the National Cancer Institute and other institutes host research
+trainees; NIH's IRTA/postbac programs are a separate, non-APPE pathway.
 
-**Location:** Atlanta, GA (some rotations elsewhere/remote)
-**Reported window:** applications open around **September**, deadline **January 1**
-**Link:** [CDC rotations — USPHS Pharmacist PAC](https://dcp.psc.gov/OSG/pharmacy/cdc.aspx)
+## CDC — Pharmacy student rotations ✅
 
-Run by volunteer pharmacists and staff within CDC. You get a general grounding in CDC's
-mission and public health priorities, and see where pharmacists sit inside CDC — antimicrobial
-resistance and stewardship, immunization programs, drug overdose prevention, global health,
-emergency preparedness, and health policy that touches pharmacy practice.
+**Location:** Atlanta, GA (some placements elsewhere)
+**Status (verified July 2026):** **no fixed public deadline — email for current cycle
+information.**
+**Email:** **pharmacists@cdc.gov**
+**Link:** [CDC Doctoral and Medical Student Short-Term Opportunities](https://www.cdc.gov/careerpaths/students/index.html) ·
+[CDC rotations — USPHS Pharmacist PAC](https://dcp.psc.gov/OSG/pharmacy/cdc.aspx)
 
-Strong pairing with an ID or ambulatory care clinical rotation if you're building a public
-health narrative.
+- **Eligibility:** fourth-year pharmacy students (PY4)
+- **Experience:** **4–6 weeks, unpaid**
+- **Placements may include:** Drug Services, Regulatory Affairs, HIV/AIDS prevention,
+  respiratory disease programs, and emergency operations
+- **How to pursue:** email the CDC pharmacy program and **copy or involve your experiential
+  office early**
 
----
+> A USPHS committee page describes a September-open / January 1 deadline. The July 2026
+> verification found no fixed public deadline. **Email rather than wait** — and if you get a
+> date from CDC directly, correct it in [02](02-timeline-and-deadlines.md).
+
+Strong pairing with an ID or ambulatory care rotation if you're building a public health story.
 
 ## Veterans Affairs (VA)
 

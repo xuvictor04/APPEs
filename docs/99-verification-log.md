@@ -2,115 +2,128 @@
 
 Back to [index](../README.md).
 
-An honest accounting of how these docs were built, so you know how much weight to put on each
-claim.
+How these docs were built, and how much weight to put on each claim.
 
-**Research date:** September 3, 2026
-
----
-
-## Method and its limits
-
-All research was done through web search. **Direct page fetching was blocked in this
-environment**, so I could not open program pages and read them end to end. Details below come
-from search-result summaries and snippets of the linked pages, not from the full pages.
-
-What that means in practice:
-
-- **Links are reliable.** They came from search results pointing at the organizations' own
-  sites.
-- **The existence of these programs is reliable.** Multiple sources corroborate each one.
-- **Specific deadlines and requirements are the weakest claims.** A snippet may be quoting a
-  page that describes a prior cycle. Search engines index stale pages constantly.
-- **Nothing here reflects your school's specific affiliation agreements.** That's the single
-  most important variable and I have no visibility into it.
-
-**Treat every date as a lead to confirm, not a fact.**
+**Initial research:** September 3, 2026 (web search)
+**Authoritative source added:** *APPE Options in Industry, Clinical Trials, or Federal
+Pharmacy* — updated and **link-verified July 2026**. Original credit: Jill Hernandez, PharmD,
+MHA and Jordan Skiera, PharmD Candidate 2025 (Samford University), August 2024. Distributed
+by the [Industry Pharmacists Organization](https://www.industrypharmacist.org/).
 
 ---
 
-## Confidence by claim
+## Two tiers of confidence
 
-### 🟢 High — corroborated across multiple sources
+**✅ Verified — from the July 2026 IPhO document.** This is the strongest evidence in the repo.
+That document's methodology is explicitly conservative: it lists **only deadlines found on an
+official program page**, and it **removed older unverified dates rather than carrying them
+forward**. When it says "no current public deadline verified," that is a finding, not a gap in
+research.
 
-- FDA, CDC, NIH, IHS, VA, and USPHS all run pharmacy student experiential pathways
-- ASHP, APhA, AMCP, ACCP, AACP, NACDS, NCPA, ASCP, PQA, and USP all run association-management
-  or non-traditional APPE rotations, mostly in the DC metro area
-- BMS and Boehringer Ingelheim run named PharmD APPE programs
-- Boehringer Ingelheim hosts students only from schools with existing contractual agreements
-- Johns Hopkins Hospital APPEs are restricted to affiliated schools
-- IHS APPEs are unpaid, for academic credit, with student-paid travel and housing
-- JRCOSTEP/SRCOSTEP are paid federal externships, distinct from APPEs
-- ACCP requires two faculty letters plus a letter from the experiential education administrator
-- AMCP requires a 500-word essay
-- The AMCP APPE/IPPE Directory exists and lists managed care sites nationally
-- IPhO publishes an "APPE Options in Industry, Clinical Trials, or Federal" resource
-- ASHP publishes free sample APPE rotation descriptions (informatics, med safety, EM, IDS)
-- Poison centers at NYC PCC, CHOP, Maryland, and UConn host pharmacy student rotators
+**🔎 Unverified — from my own web search on September 3, 2026.** Direct page fetching was
+blocked in this environment, so these came from search-result summaries rather than reading
+the pages. Links and program existence are reliable; **specific dates are the weak claims**,
+because search engines index stale cycle pages constantly.
 
-### 🟡 Medium — single source, or a date that may be cycle-specific
+---
 
-| Claim | Caveat |
+## ✅ Verified facts (July 2026 document)
+
+| Program | Verified detail |
 | --- | --- |
-| **FDA PSEP not accepting applications for 2026–27** | Reported in search results from FDA's own pages. Plausible and consistent across two searches, but I could not open the page. **Check [How to Apply](https://www.fda.gov/about-fda/fda-pharmacy-student-experiential-program/how-apply) directly** before ruling FDA out. |
-| **BMS APPE window Sep 1 – Sep 19** | From a summary of BMS's advanced degree programs page. Given today's date this is the most consequential claim here — **verify on [careers.bms.com](https://careers.bms.com/advanced-degree-programs/) today.** |
-| **ACCP window Aug 1 – Sep 15** | Described as the annual recurring window, which raises confidence, but confirm the current cycle. |
-| **NIH Clinical Center deadline Oct 31** | Corroborated by a school mailing-list post and a search summary. The mailing-list post was from an earlier cycle. |
-| **AACP deadline Nov 1 to APPE@aacp.org** | The snippet referenced a November 1 of an earlier year. The *date* likely recurs; the *year* in the source was old. |
-| **PQA deadline Dec 31** | Stated as applying to both the summer internship and APPE. |
+| **Bristol Myers Squibb** | Sep 1–19 window; **rec. letter due Oct 3**; CV + one-page LOI + **one** LOR + online app; **virtual or hybrid**; 4–6 wks; university contract initiated **only after acceptance**; student.rotations@bms.com. Functions: Medical Affairs, Clinical Development, HEOR, Field Medical, Marketing, Policy & Advocacy, PV/Epidemiology, Regulatory Affairs |
+| **St. Jude** | **Sep 1 – Oct 23, 2026**; decisions by **Jan 15**; 4–6 wks; ACPE-accredited U.S. schools; **no February or December rotations**; unpaid; affiliation agreement after selection; timothy.jacobs@stjude.org |
+| **PQA** | Opens **September**, **due November**, offers **December**; remote or DC-metro HQ; materials = 1-page cover letter, CV, **unofficial transcript**, one recommendation, **school experiential approval letter**; Academics@PQAalliance.org |
+| **CDC** | **No fixed public deadline** — email pharmacists@cdc.gov; PY4 only; 4–6 wks unpaid; Drug Services, Regulatory Affairs, HIV/AIDS prevention, respiratory disease, emergency operations |
+| **NIH Clinical Center** | **Direct department inquiry / school-arranged**; no public application or deadline verified; phone 301-496-4363; ~1,000 clinical studies; commercial + investigational meds |
+| **Cencora** | Application-based, **competitive**; wholesale drug distribution & supply chain; annual cohort with in-person programming at HQ; conducted through partnerships with **select universities**; no national form or universal deadline |
+| **12 school-arranged companies** | AstraZeneca, Chiesi USA, Evidera/PPD, J&J, L'Oréal, Medscape/WebMD, Payer Sciences, Premier Pharma Mentors, P&G, ProPharma, Radius/Paratek, United Therapeutics, Vizient — status, relevant areas, and how to pursue. See [04](04-industry-and-regulatory.md). |
+| **NASA Aerospace Medicine Clerkship** | **Not a PharmD APPE.** Minimum requirement is the final year of **medical** school. Explicitly corrected out of the prior edition. |
+| **Outreach package guidance** | See [11](11-application-materials.md) — including: do not send transcripts or sensitive personal data until requested through an official process |
+
+---
+
+## ⚠️ Corrections I made after receiving the July 2026 document
+
+These were wrong in my first draft. Worth reading, because all three still circulate widely.
+
+| Claim | What I had | Corrected to |
+| --- | --- | --- |
+| **NIH Clinical Center deadline** | October 31 | **Not confirmed.** The prior Oct 31 deadline and old PDF *"were not confirmed on the current official department page."* Now school-arranged via department inquiry. |
+| **PQA deadline** | December 31 | **Due in November** (opens Sep, offers Dec). My Dec 31 came from an older cycle page. |
+| **St. Jude timing** | "Apply the year prior, beginning of P3" | **Sep 1 – Oct 23, 2026**, decisions Jan 15, no Feb/Dec rotations. |
+| **BMS format** | Implied on-site in NJ | **Virtual or hybrid** — location is not a barrier. Also: **one** LOR, and the contract comes **after** acceptance. |
+| **CDC deadline** | "Opens ~Sep, due Jan 1" | **No fixed public deadline.** Email pharmacists@cdc.gov. |
+
+Also worth noting for anyone using an older copy of the IPhO list: **AstraZeneca's October 25**,
+**P&G's mid-October**, **Chiesi's mid-October**, and **United Therapeutics' mid-October**
+deadlines were all removed in the July 2026 review as unverifiable. Don't plan around them.
+
+---
+
+## 🔎 Still unverified — check these yourself
+
+| Claim | Note |
+| --- | --- |
+| **ACCP window Aug 1 – Sep 15** | Described as an annual recurring window. Needs **two faculty letters + an OEE letter**, so a late start is likely fatal this cycle. |
+| **AACP deadline Nov 1** | The source snippet referenced a November 1 of an earlier year. The date likely recurs; the year in the source was old. |
 | **NACDS priority deadline Jan 16** | Framed as priority review, not a hard close. |
-| **CDC PSEP opens ~September, due Jan 1** | Single source (USPHS Pharmacist PAC page). |
-| **ASHP: no placements in Dec, May, Jun, Jul** | Single source; a scheduling constraint worth confirming before you build a block plan around it. |
-| **NIH application contact email** | An email appeared in a 2019 school mailing-list post. **I deliberately did not print it** — pull the current contact from the [NIH CC page](https://www.cc.nih.gov/training/students/clinical_electives) instead. |
+| **USPHS JRCOSTEP Jul 1 – Sep 15** | Single source. |
+| **FDA PSEP paused for 2026–27** | From FDA's own pages via search summary, corroborated across two searches, but I could not open the page. **Check [How to Apply](https://www.fda.gov/about-fda/fda-pharmacy-student-experiential-program/how-apply) before ruling FDA out.** |
+| **ASHP: no placements Dec/May/Jun/Jul** | Single source; a real scheduling constraint if true. |
+| **AMCP, ASHP, ASCP, APhA, NCPA, USP timing** | Rolling or annual; none independently verified. |
+| **IHS, VA processes** | Structurally accurate but facility- and school-dependent. |
 
-### 🟠 Lower — compiled by me, not from a program listing
+---
 
-- **The Northeast/Mid-Atlantic site directory ([09](09-northeast-mid-atlantic-sites.md))** is a
-  target list I assembled from major teaching hospitals, health systems, and employers in the
-  region. These institutions exist and nearly all have pharmacy departments and residency
-  programs — but **I did not verify that any specific one hosts APPE students, or that your
-  school can place you there.** It's a starting list for your OEE conversation.
-- **The New Jersey / Massachusetts pharma company lists in [04](04-industry-and-regulatory.md)**
-  are based on where these companies have US operations. Only BMS, Boehringer Ingelheim,
-  Genentech, and Novo Nordisk had student-rotation pages I could point to. The rest are
-  networking and cold-outreach targets, not confirmed APPE hosts.
+## 🟠 Compiled by me, not from any program listing
+
+- **The Northeast/Mid-Atlantic directory ([09](09-northeast-mid-atlantic-sites.md))** is a
+  target list of major teaching hospitals, health systems, and employers. These institutions
+  exist and nearly all have pharmacy departments and residency programs — but **I did not
+  verify that any specific one hosts APPE students, or that your school can place you there.**
+- **The "other regional employers" list in [04](04-industry-and-regulatory.md)** is based on
+  where companies have US operations. **None are confirmed APPE hosts** — networking targets only.
 - **The health plan list in [06](06-managed-care-pbm.md)** is regional payers with a pharmacy
-  presence. Use the AMCP directory as the authoritative source for who's actually taking
-  students.
-- **Non-traditional elective settings in [10](10-nontraditional-electives.md)** — veterinary,
-  correctional, hospice, compounding — are described as categories of opportunity. Specific
-  sites need local sourcing.
+  presence. The AMCP directory is the authoritative source for who's actually taking students.
+- **Non-traditional settings in [10](10-nontraditional-electives.md)** are categories of
+  opportunity; specific sites need local sourcing.
 
-### ⚫ Not researched
+---
+
+## ⚫ Not researched
 
 - Your school's APPE requirements, block structure, elective count, and scheduling system
-- Which sites your school already has affiliation agreements with
-- Regional site lists outside the Northeast/Mid-Atlantic
+- **Which sites your school already has affiliation agreements with** — the single most
+  important variable, and the one I have no visibility into
+- Regional lists outside the Northeast/Mid-Atlantic
 - International rotation partners (school-specific)
-- Anything requiring a login (some ASHP and AMCP pages sit behind member SSO)
+- Anything behind a member login (some ASHP and AMCP pages)
 
 ---
 
-## What to verify first, in order
+## What to do this week, in order
 
-1. **BMS** — the window may close in days. [careers.bms.com](https://careers.bms.com/advanced-degree-programs/)
-2. **ACCP** — same. Two faculty letters take time to arrange. [accp.com](https://www.accp.com/education/appe.aspx)
-3. **JRCOSTEP**, if you're eligible. [usphs.gov/students](https://www.usphs.gov/students/)
-4. **Your OEE** — which of these does your school already have agreements with?
-5. **FDA PSEP status** — is the pause real, and does it extend to later cycles?
-6. **The IPhO PDF** — [it is more current than this repo](https://www.industrypharmacist.org/resources/f5fc4e04ba244eeb919ba5bc6f56677d.pdf)
-   for industry and federal deadlines.
-7. **The AMCP directory** — more current than my managed care list.
+1. **BMS** — closes Sep 19; secure the recommendation letter (due Oct 3). ✅ dates
+2. **St. Jude** — closes Oct 23; contact your OEE first, as instructed. ✅ dates
+3. **PQA** — open now; request the **school approval letter** and pull your **unofficial
+   transcript**. ✅ dates
+4. **Email CDC** (pharmacists@cdc.gov) — there is no posted deadline to wait for. ✅
+5. **Ask your OEE to call NIH Clinical Center Pharmacy** (301-496-4363). ✅
+6. **Ask your OEE about Cencora** participation. ✅
+7. **Verify ACCP and JRCOSTEP** (both reportedly close Sep 15). 🔎
+8. **Re-check FDA PSEP status.** 🔎
 
 ---
 
 ## Keeping this current
 
-Two upstream sources update more often than I can:
+Two upstream sources update more often than this repo:
 
-- **[IPhO's APPE Options PDF](https://www.industrypharmacist.org/resources/f5fc4e04ba244eeb919ba5bc6f56677d.pdf)** — industry, clinical trials, federal
-- **[AMCP APPE/IPPE Directory](https://www.amcp.org/resource-center/group-resources/student-pharmacist-center/managed-care-internships)** — managed care, self-submitted by sites
+- **The IPhO APPE Options document** — the July 2026 edition is what this repo now reflects.
+  Watch for the next revision.
+- **[AMCP APPE/IPPE Directory](https://www.amcp.org/resource-center/group-resources/student-pharmacist-center/managed-care-internships)** —
+  managed care, self-submitted by sites, so it reflects who is currently looking.
 
-Re-check both monthly through the fall. When you confirm a real deadline, correct it in
-[02 — Timeline & Deadlines](02-timeline-and-deadlines.md) and note it here. This repo is
-worth more as a living document than as a snapshot.
+When you confirm a real date, correct it in [02](02-timeline-and-deadlines.md) and move the
+row from 🔎 to ✅ here. This repo is worth more as a living document than as a snapshot.

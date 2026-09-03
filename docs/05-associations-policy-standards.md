@@ -24,7 +24,7 @@ they're strikingly under-applied-to relative to clinical electives.
 | **AACP** | Arlington, VA | **Nov 1** | Pharmacy education / academia |
 | **ACCP** | (national) | **Aug 1 – Sep 15** | Clinical pharmacy leadership |
 | **ASCP** | Alexandria, VA | Annual cycle | Senior care / consultant pharmacy |
-| **PQA** | Alexandria, VA | **Dec 31** | Quality measurement |
+| **PQA** | Alexandria, VA / remote | Opens Sep, **due Nov** | Quality measurement |
 | **USP** | Rockville, MD | Rolling | Standards, compendia |
 | **NABP** | Mount Prospect, IL | Inquire | Regulation, licensure |
 | **ISMP / ECRI** | Horsham & Plymouth Mtg, PA | Inquire | Medication safety |
@@ -173,19 +173,35 @@ geriatrics, long-term care, or deprescribing.
 
 ---
 
-## PQA — Pharmacy Quality Alliance APPE
-**Location:** Alexandria, VA
-**Reported deadline:** **December 31** for both the summer internship and the APPE
+## PQA — Pharmacy Quality Alliance APPE ✅ status corrected
+
+**Location:** **remote, or at PQA headquarters** in the Washington, DC metro area
+**Timing (verified July 2026):** applications **open in September**, are **due in November**,
+and offers go out in **December**
+**Email:** Academics@PQAalliance.org
 **Link:** [pqaalliance.org/appe](https://www.pqaalliance.org/appe) ·
 [Student programs](https://www.pqaalliance.org/student-programs) ·
-[Student & fellowship programs (PDF)](https://www.pqaalliance.org/assets/PQA_Student_and_Fellowship_Programs.pdf)
+[2026–2027 Student and Professional Programs Guide](https://www.pqaalliance.org/assets/PQA_Student_and_Fellowship_Programs.pdf)
 
-Experiential learning in non-profit association management, medication-use quality education,
-communications, research, and **performance measurement**. PQA develops the quality measures
-used in Medicare Part D Star Ratings — if you want to understand how pharmacy quality is
-actually scored nationally, this is the source.
+> ⚠️ **Correction.** An earlier draft of these docs listed **December 31**, taken from an older
+> cycle page. The verified timing is **due in November**, with offers in December. Applications
+> are open right now.
 
----
+**Materials — note the two easy-to-miss items:**
+- One-page cover letter
+- CV
+- **Unofficial transcript**
+- One recommendation
+- **A letter of approval from your school's experiential program**
+
+That last one means an OEE conversation has to happen before you submit, not after.
+
+**Content:** a final-year elective in research and performance measurement, medication-use
+quality education, nonprofit/association management, and member communications. PQA develops
+the quality measures behind Medicare Part D Star Ratings — if you want to understand how
+pharmacy quality is actually scored nationally, this is the source.
+
+**The remote option matters:** you can do this rotation without relocating to DC.
 
 ## USP — United States Pharmacopeia
 **Location:** Rockville, MD

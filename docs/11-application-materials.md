@@ -124,6 +124,33 @@ How most non-advertised rotations actually happen. Full template:
 
 ---
 
+## The outreach package for school-arranged APPEs ✅
+
+Verbatim guidance from the July 2026 IPhO review, which is the standard for the dozen-plus
+companies listed as "school-arranged" in [04](04-industry-and-regulatory.md):
+
+- **Ask the experiential office first** whether the school already has a contract, an approved
+  preceptor, or an alumni contact at the company.
+- **Prepare a concise email** with: your school, PharmD graduation year, **exact APPE block
+  dates**, functional interests, and **the experiential-office contact who handles contracts**.
+- **Attach a current CV and a tailored one-page letter of interest.** ⚠️ **Do not send
+  transcripts, background information, or sensitive personal data until requested through an
+  official process.**
+- **Confirm before committing:** modality, location, academic credit, insurance,
+  background-check requirements, expenses, and contract completion.
+
+Two of those deserve emphasis. **Naming your contract contact in the first email** removes the
+company's biggest unknown — who at your school does the paperwork. And **withholding sensitive
+documents until an official request** protects you: a legitimate program will ask through a
+formal channel, and nothing about an initial inquiry requires a transcript or a date of birth.
+
+One more, from the same source, aimed at third-party virtual rotation vendors: **confirm
+academic credit, preceptor qualifications, affiliation terms, schedule, and any student or
+school costs before enrolling.** If a program charges you, that is a reason to slow down and
+check with your OEE.
+
+---
+
 ## Interviews
 
 Some programs interview (industry and federal especially).

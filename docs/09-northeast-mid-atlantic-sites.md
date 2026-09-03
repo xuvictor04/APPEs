@@ -20,7 +20,7 @@ Everything in [03 — Federal](03-federal-government.md) and
 [05 — Associations](05-associations-policy-standards.md) is here.
 
 **Federal & national organizations**
-- 🌐 [NIH Clinical Center](https://www.cc.nih.gov/training/students/clinical_electives) — Bethesda, MD (deadline Oct 31)
+- [NIH Clinical Center Pharmacy](https://www.cc.nih.gov/pharmacy) — Bethesda, MD. ⚠️ **School-arranged, no public deadline** (the widely-circulated Oct 31 date is unconfirmed). Have your OEE call 301-496-4363. See [03](03-federal-government.md).
 - 🌐 [FDA](https://www.fda.gov/about-fda/scientific-internships-fellowships-trainees-and-non-us-citizens/fda-pharmacy-student-experiential-program) — Silver Spring, MD (PSEP status: check)
 - 🌐 [USP](https://www.usp.org/services/academic-connection) — Rockville, MD
 - 🌐 [ASHP](https://www.ashp.org/appe) — Bethesda, MD

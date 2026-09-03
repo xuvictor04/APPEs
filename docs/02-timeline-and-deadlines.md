@@ -2,95 +2,186 @@
 
 Back to [index](../README.md).
 
-**Compiled September 3, 2026.** Windows below are what public pages reported on that date.
-Cycles shift. **Verify every one before you rely on it.** Confidence ratings are in
+**Primary source:** *APPE Options in Industry, Clinical Trials, or Federal Pharmacy*,
+updated and link-verified **July 2026**. Original credit: Jill Hernandez, PharmD, MHA and
+Jordan Skiera, PharmD Candidate 2025 (Samford University), August 2024. Distributed by the
+[Industry Pharmacists Organization](https://www.industrypharmacist.org/).
+
+Entries marked ✅ are confirmed by that document. Entries marked 🔎 come from my own web
+research (September 3, 2026) and still need verification — see
 [99 — Verification Log](99-verification-log.md).
 
 ---
 
 ## Master calendar
 
-Sorted by when the window opens. 🔴 = closes within 30 days of the research date.
+🔴 = closes within 30 days of September 3, 2026.
 
-| Deadline | Program | Category | Link |
+| Deadline | Program | Category | Source |
 | --- | --- | --- | --- |
-| Jul 1 – **Sep 15** 🔴 | **USPHS JRCOSTEP** (paid extern, P2/P3) | Federal | [usphs.gov/students](https://www.usphs.gov/students/) |
-| Aug 1 – **Sep 15** 🔴 | **ACCP Professional Leadership APPE** | Association | [accp.com/education/appe.aspx](https://www.accp.com/education/appe.aspx) |
-| **Sep 1 – Sep 19** 🔴 | **Bristol Myers Squibb APPE** | Industry | [careers.bms.com/advanced-degree-programs](https://careers.bms.com/advanced-degree-programs/) |
-| Opens ~Sep, due **Jan 1** | **CDC Pharmacy Student Experiential Program** | Federal | [dcp.psc.gov/OSG/pharmacy/cdc.aspx](https://dcp.psc.gov/OSG/pharmacy/cdc.aspx) |
-| ~Sep–Oct | **Boehringer Ingelheim PharmD APPE** | Industry | [boehringer-ingelheim.com](https://www.boehringer-ingelheim.com/us/careers/discover-our-career-areas/pharmd-advanced-pharmacy-practice-experiences-program) |
-| **Oct 31** | **NIH Clinical Center APPE** | Federal | [cc.nih.gov/training/students/clinical_electives](https://www.cc.nih.gov/training/students/clinical_electives) |
-| **Nov 1** | **AACP Association Management APPE** | Academia | [aacp.org/form/student-pharmacist-appe-application](https://www.aacp.org/form/student-pharmacist-appe-application) |
-| **Dec 31** | **PQA APPE + summer internship** | Quality/Policy | [pqaalliance.org/appe](https://www.pqaalliance.org/appe) |
-| **Jan 16** (priority) | **NACDS Association Management APPE** | Association | [nacds.org/appe](https://www.nacds.org/appe/) |
-| Winter/spring | **SRCOSTEP** (paid, senior year) | Federal | [usphs.gov/students](https://www.usphs.gov/students/) |
-| Annual cycle | **AMCP Association & Leadership Management APPE** | Managed care | [amcp.org](https://www.amcp.org/resource-center/group-resources/student-pharmacist-center/APPE-IPPE-Directory/amcp-appe-rotation) |
-| Annual cycle | **ASHP Association Management APPE** | Association | [ashp.org/appe](https://www.ashp.org/appe) |
-| Annual cycle | **ASCP Association Leadership APPE** | Association | [ascp.com/page/APPE](https://www.ascp.com/page/APPE) |
-| Year prior to rotation | **St. Jude APPE** (apply early P3) | Clinical/Onc | [stjude.org](https://www.stjude.org/education-training/clinical-training/clinical-residencies/pharmacy-residency-programs/advanced-pharmacy-practice-experience-rotations.html) |
-| Rolling / year-round | **NCPA Association Management APPE** | Association | [ncpa.org](https://ncpa.org/) |
-| Rolling / year-round | **APhA Experiential Program** | Association | [pharmacist.com](https://www.pharmacist.com/Membership/Student-Pharmacists/APhA-Experiential-Programs) |
-| Rolling | **USP non-traditional APPE**, Rockville MD | Standards | [usp.org/services/academic-connection](https://www.usp.org/services/academic-connection) |
-| Via your OEE | **IHS APPE** (80+ schools, 39 states) | Federal | [ihs.gov/pharmacy/studentops](https://www.ihs.gov/pharmacy/studentops/) |
-| Per-facility | **VA medical center APPEs** | Federal | [va.gov](https://www.va.gov/) — each facility's site |
-| ⛔ Paused | **FDA PSEP** — reported *not* accepting applications for 2026–27 | Federal | [fda.gov PSEP](https://www.fda.gov/about-fda/scientific-internships-fellowships-trainees-and-non-us-citizens/fda-pharmacy-student-experiential-program) |
+| Jul 1 – **Sep 15** 🔴 | **USPHS JRCOSTEP** (paid extern, P2/P3) | Federal | 🔎 |
+| Aug 1 – **Sep 15** 🔴 | **ACCP Professional Leadership APPE** | Association | 🔎 |
+| **Sep 1 – Sep 19** 🔴<br>*rec. letter due Oct 3* | **Bristol Myers Squibb APPE** | Industry | ✅ |
+| **Sep 1 – Oct 23, 2026** 🔴 | **St. Jude Children's Research Hospital APPE**<br>*decisions by Jan 15* | Clinical / research | ✅ |
+| Opens **September**, due **November**, offers **December** | **PQA APPE** | Quality / policy | ✅ |
+| **Oct 31** 🔎 | ~~NIH Clinical Center APPE~~ — **see correction below** | Federal | ⚠️ |
+| **Nov 1** | **AACP Association Management APPE** | Academia | 🔎 |
+| Opens ~Sep, due **Jan 1** 🔎 | **CDC PSEP** — *but see correction below* | Federal | ⚠️ |
+| **Jan 16** (priority) | **NACDS Association Management APPE** | Association | 🔎 |
+| Winter/spring | **SRCOSTEP** (paid, senior year) | Federal | 🔎 |
+| Annual, varies by school | **Cencora APPE** (wholesale distribution / supply chain) | Industry | ✅ |
+| Annual cycle | **AMCP**, **ASHP**, **ASCP** association APPEs | Association | 🔎 |
+| Rolling | **APhA**, **NCPA**, **USP** | Association / standards | 🔎 |
+| Via your OEE | **IHS APPE** | Federal | 🔎 |
+| Per-facility | **VA medical center APPEs** | Federal | 🔎 |
+| ⛔ Paused | **FDA PSEP** — reported not accepting applications for 2026–27 | Federal | 🔎 |
+| ⛔ Not a PharmD program | **NASA Aerospace Medicine Clerkship** | — | ✅ |
+
+---
+
+## ⚠️ Two corrections to my earlier draft
+
+**NIH Clinical Center — the October 31 deadline is not confirmed.**
+The July 2026 review states plainly that *"the prior October 31 deadline and old PDF were not
+confirmed on the current official department page."* NIH Clinical Center Pharmacy is now
+listed as **direct department inquiry / school-arranged**, with **no current public APPE
+application or deadline verified**. Have your experiential office contact the department to
+ask whether visiting APPE placements are available and whether an affiliation agreement can
+be established. Phone: **301-496-4363**.
+
+**PQA is due in November, not December 31.**
+Applications **open in September, are due in November, and offers go out in December.** My
+earlier "December 31" came from an older cycle page. Treat November as the working deadline
+and confirm the exact date with PQA.
+
+**CDC has no fixed public deadline.**
+The July 2026 review lists CDC as *"no fixed public deadline — email for current cycle
+information"* at **pharmacists@cdc.gov**. My earlier "opens September, due January 1" came
+from a USPHS committee page and may describe a prior cycle. Email CDC directly rather than
+waiting for a posted date.
+
+---
+
+## Confirmed application requirements
+
+Straight from the July 2026 document — these are the ones you can plan against.
+
+### Bristol Myers Squibb ✅ — open now
+- **Window:** September 1–19; **letter of recommendation due October 3**
+- **Materials:** CV, **one-page letter of intent**, **one letter of recommendation**, online application
+- **Format:** **virtual or hybrid**, based on student and preceptor preferences
+- **Functions:** Medical Affairs, Clinical Development, HEOR, Field Medical, Marketing,
+  Policy and Advocacy, Pharmacovigilance/Epidemiology, Regulatory Affairs, and others
+- **Contract:** university contract is initiated **only after acceptance** — so a missing
+  affiliation agreement is *not* a reason to skip applying
+- **Email:** student.rotations@bms.com
+
+> The virtual/hybrid format matters: you do not need to be in New Jersey to do this rotation.
+> That removes the main practical objection for most students.
+
+### St. Jude Children's Research Hospital ✅ — open now
+- **Window:** September 1 – **October 23, 2026**; decisions by **January 15**
+- **Length:** 4–6 weeks
+- **Areas:** hospital/health-system pharmacy, pharmacy research, administration, clinical
+  services, medication-use safety, pharmacogenomics, informatics, compounding, and global
+  pediatric pharmacy
+- **Eligibility:** students at ACPE-accredited U.S. pharmacy schools; apply the year before
+  rotations, typically near the beginning of P3; contact your experiential office before submitting
+- **Constraints:** **no February or December rotations**; unpaid; affiliation agreement
+  required after selection
+- **Email:** timothy.jacobs@stjude.org
+
+### PQA ✅
+- **Timing:** opens September, **due November**, offers December
+- **Materials:** one-page cover letter, CV, **unofficial transcript**, one recommendation,
+  and a **letter of approval from your school's experiential program**
+- **Format:** remote, or at PQA headquarters in the DC metro area
+- **Email:** Academics@PQAalliance.org
+
+### CDC ✅
+- **Eligibility:** fourth-year pharmacy students (PY4)
+- **Experience:** 4–6 weeks, unpaid
+- **Placements may include:** Drug Services, Regulatory Affairs, HIV/AIDS prevention,
+  respiratory disease programs, emergency operations
+- **How to pursue:** email the CDC pharmacy program and **involve your experiential office
+  early**
+- **Email:** pharmacists@cdc.gov
+
+### Cencora (formerly AmerisourceBergen) ✅ — new to this repo
+- **Program:** APPE in **wholesale drug distribution and supply chain management**; the annual
+  cohort completes training culminating in in-person programming at Cencora headquarters
+- **Status:** application-based and **competitive** — explicitly *not* an informal rotation
+  set up by direct student outreach
+- **Timing:** annual competitive selection; timing varies by participating school
+- **How to apply:** ask your experiential office whether your school is a **participating
+  university**, and request the current application, internal nomination process, and deadline.
+  Cencora does not publish a single national student application or universal deadline.
 
 ---
 
 ## Month-by-month plan
 
-The core insight: **most national APPE applications are due in your P3 year, roughly 12
-months before the rotation.** If you are a P3 in fall 2026 applying for 2027–28 rotations,
-you are in the thick of it right now.
+Most national APPE applications are due in your **P3 year, roughly 12 months before the
+rotation**. If you're a P3 in fall 2026 applying for 2027–28, you are in the thick of it now.
 
 ### September (now)
-- [ ] Submit **ACCP** (closes Sep 15) and **BMS** (closes Sep 19). These are live today.
-- [ ] Submit **JRCOSTEP** if you're eligible (P2/P3, closes Sep 15).
-- [ ] Book a meeting with your **OEE**. Bring a list of 8–12 target sites and ask, for each:
-      do we have an agreement, and if not, can we get one in time?
-- [ ] Finalize your CV. Have two people read it. See [11](11-application-materials.md).
-- [ ] Ask for **letters of recommendation** now — ACCP wants two from faculty.
+- [ ] **BMS** — closes Sep 19. Virtual/hybrid, so location is not a barrier. Line up your
+      **one letter of recommendation** immediately; it's due Oct 3.
+- [ ] **St. Jude** — closes Oct 23, but start now. Contact your experiential office *before*
+      submitting, as the program instructs.
+- [ ] **ACCP** — closes Sep 15 and needs **two faculty letters plus an OEE letter**. If you
+      haven't asked, this cycle is likely out of reach; confirm the date before writing it off.
+- [ ] **JRCOSTEP** if eligible — closes Sep 15.
+- [ ] **PQA** — applications open this month. Note the transcript and the school approval letter.
+- [ ] **Email CDC** (pharmacists@cdc.gov) and ask about the current cycle — there's no posted date.
+- [ ] **Book your OEE meeting.** Bring 8–12 target sites and ask, for each: do we have an
+      agreement, and if not, can we get one in time?
+- [ ] Finalize your CV. See [11 — Application Materials](11-application-materials.md).
 
 ### October
-- [ ] **NIH Clinical Center** (Oct 31).
-- [ ] Watch for **Boehringer Ingelheim** and other industry postings.
-- [ ] Cold-email 5–10 preceptors at sites without formal programs. October is early enough
-      that a "yes" still leaves time for the agreement.
+- [ ] **BMS recommendation letter due Oct 3** — do not let this lapse after submitting.
+- [ ] **St. Jude** closes Oct 23.
+- [ ] Have your OEE **contact NIH Clinical Center Pharmacy** (301-496-4363) about visiting
+      APPE placements, since there's no public application.
+- [ ] Cold-email 5–10 preceptors at sites without formal programs.
 
 ### November
-- [ ] **AACP** (Nov 1).
+- [ ] **PQA due this month.**
+- [ ] **AACP** (Nov 1). 🔎
+- [ ] Ask your OEE about **Cencora** participation.
 - [ ] Second wave of cold outreach.
-- [ ] Start assembling your **CDC PSEP** application (due Jan 1) — it's a longer form.
 
 ### December
-- [ ] **CDC PSEP** (Jan 1) and **PQA** (Dec 31). Both land over the holidays; do them early.
+- [ ] PQA offers go out.
+- [ ] Verify the **NACDS** (Jan 16) and any remaining winter deadlines.
 
 ### January
-- [ ] **NACDS** priority deadline (Jan 16).
+- [ ] **NACDS** priority deadline (Jan 16). 🔎
+- [ ] **St. Jude decisions by Jan 15.**
 - [ ] Confirm every acceptance in writing and forward it to your OEE the same day.
 
 ### February – April
 - [ ] Fill remaining blocks through your school's scheduling system.
-- [ ] Chase affiliation agreements that are still pending. Escalate at the 60-day mark.
-- [ ] Complete onboarding: immunizations, background checks, drug screens, badge requests.
-      Federal sites need the most lead time.
+- [ ] Chase affiliation agreements. Escalate at the 60-day mark.
+- [ ] Complete onboarding: immunizations, background checks, drug screens, badges.
 
 ### May onward
-- [ ] Confirm start dates, dress code, parking, and reporting instructions **two weeks out**
-      for every rotation. Sites change preceptors and forget to tell students.
-- [ ] Keep a running portfolio of projects — you'll need it for residency/fellowship interviews.
+- [ ] Confirm start dates, modality, and reporting instructions **two weeks out** for every rotation.
+- [ ] Keep a running portfolio of projects for residency/fellowship interviews.
 
 ---
 
 ## Rules of thumb
 
 1. **Apply 12–18 months out** for anything competitive or federal.
-2. **Every deadline in this file is a lead, not a fact.** Confirm on the source page.
-3. **Have a backup for every application-based rotation.** Acceptance rates at FDA, NIH,
-   and the big associations are low; plan as though you'll get one of three.
-4. **Federal onboarding is the long pole**, not the application. Budget 3–6 months.
+2. **A missing affiliation agreement is not always a blocker.** BMS initiates the university
+   contract *after* acceptance. Ask before you self-reject.
+3. **Verify dates against the July 2026 IPhO document first**, then the program's own page.
+   That document deliberately **removed** unverified dates rather than carrying them forward —
+   which is why several entries now read "no current public deadline verified."
+4. **"No public deadline" means email, not wait.** CDC, NIH, and most of the school-arranged
+   companies expect an inquiry.
 5. **Log everything** in [templates/application-tracker.csv](../templates/application-tracker.csv).
-   You will not remember which of 20 programs wanted a 500-word essay versus a one-page letter.
 
 ---
 

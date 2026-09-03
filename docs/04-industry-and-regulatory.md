@@ -10,41 +10,86 @@ geography is on your side.
 
 ## Start here: the IPhO resource
 
-The **Industry Pharmacists Organization** maintains the single best-curated list of
-industry, clinical trial, and federal APPE options, with deadlines.
+The **Industry Pharmacists Organization** maintains the best-curated list of industry,
+clinical trial, and federal APPE options, with deadlines.
 
-- 📄 **[APPE Options in Industry, Clinical Trials, or Federal (PDF)](https://www.industrypharmacist.org/resources/f5fc4e04ba244eeb919ba5bc6f56677d.pdf)**
-- [Announcement post](https://www.industrypharmacist.org/news_post.php?id=630)
-- [IPhO main site](https://www.industrypharmacist.org/) — free student membership; local
-  chapters at many schools
+📄 **APPE Options in Industry, Clinical Trials, or Federal Pharmacy** — updated and
+link-verified **July 2026**. Original credit: Jill Hernandez, PharmD, MHA and Jordan Skiera,
+PharmD Candidate 2025 (Samford University), August 2024.
+[Hosted PDF](https://www.industrypharmacist.org/resources/f5fc4e04ba244eeb919ba5bc6f56677d.pdf) ·
+[Announcement post](https://www.industrypharmacist.org/news_post.php?id=630) ·
+[IPhO main site](https://www.industrypharmacist.org/) — free student membership, chapters at
+many schools
 
-**Do this first.** It is updated more often than anything I can hardcode here, and IPhO
-membership plus chapter involvement is itself a credential industry recruiters recognize.
+**Everything in this file marked ✅ comes from that July 2026 edition.** Its methodology is
+worth understanding: it lists **only deadlines found on an official program page**, and it
+**deleted older unverified dates rather than carrying them forward**. That's why so many
+entries below read "no current public deadline verified" — that's a finding, not a gap.
+
+Its own guidance, which is good guidance:
+
+> - **Confirm every opportunity with your college or school of pharmacy experiential office
+>   before applying or contacting a company.**
+> - Many industry APPEs require a school-company contract, proof of insurance, background
+>   checks, and formal preceptor approval before academic credit can be awarded.
+
+**Status vocabulary used throughout:**
+
+| Term | Meaning |
+| --- | --- |
+| **Application-based** | Competitive selection through a public program or a participating school |
+| **School-arranged** | Contact your experiential office / the company directly |
+| **Paused** | The official program is not currently accepting applications |
 
 Also useful: [studentindustryorg.com/appe-rotations](https://www.studentindustryorg.com/appe-rotations)
 and [The Pharm Student's Industry Handbook](https://industrypharmstudent.weebly.com/home/industry-appe-rotations-what-to-expect)
-for what an industry APPE actually feels like day to day.
+for what an industry APPE feels like day to day.
 
 ---
 
 ## Named industry APPE programs
 
-### Bristol Myers Squibb — APPE Program 🔴 open now
-**Location:** Princeton / Lawrenceville, NJ; New York, NY
+### Bristol Myers Squibb — APPE Program ✅ 🔴 open now
+**Window:** **September 1–19**. **Letter of recommendation due October 3.** Late materials
+are not accepted.
+**Format:** **virtual or hybrid**, based on student and preceptor preferences — you do not
+need to relocate to New Jersey for this rotation.
 **Duration:** 4–6 weeks
-**Reported window:** **September 1 – September 19**. Late materials are not accepted.
-**Link:** [careers.bms.com/advanced-degree-programs](https://careers.bms.com/advanced-degree-programs/)
+**Email:** student.rotations@bms.com
+**Link:** [BMS Advanced Degree Programs — APPE](https://careers.bms.com/advanced-degree-programs/)
 
-**Functional areas offered:** medical affairs, clinical development, health economics &
-outcomes research (HEOR), field medical, marketing, strategy, and policy. That breadth is
-unusual — most industry APPEs are single-function.
+**Functions offered:** Medical Affairs, Clinical Development, HEOR, Field Medical, Marketing,
+Policy and Advocacy, Pharmacovigilance/Epidemiology, Regulatory Affairs, and others. That
+breadth is unusual — most industry APPEs are single-function.
 
-**Application materials:** a **one-page letter of intent** focused on how a BMS rotation
-advances your specific career goals, plus enrollment in an accredited pharmacy program with
-intent to complete rotations in the following year.
+**Materials:** CV, **one-page letter of intent**, **one letter of recommendation**, and the
+online application.
 
-> This is the highest-value deadline on the calendar as of today. If industry is your
-> direction, treat it as this week's priority.
+**Important:** the university contract is **initiated only after acceptance**. A missing
+affiliation agreement is not a reason to skip applying — apply first, contract second.
+
+> The highest-value deadline on the calendar today. If industry is your direction, this is
+> this week's priority, and the virtual/hybrid format removes the usual logistics objection.
+
+### Cencora (formerly AmerisourceBergen) — APPE Program ✅
+**Status:** application-based, **competitive** — explicitly *not* an informal rotation you can
+set up by cold-emailing.
+**Timing:** annual competitive selection; **timing varies by participating school**.
+**Link:** Cencora Pharmacy Education / Cencora APPE Program (via
+[cencora.com](https://www.cencora.com/))
+
+**Program:** an APPE in **wholesale drug distribution and supply chain management**. The
+annual cohort completes training that culminates with in-person programming at Cencora
+headquarters (Conshohocken, PA — inside your region).
+
+**How to apply:** ask your experiential office whether your school is a **participating
+university**, then request the current application, the internal nomination process, and the
+deadline. Cencora does **not** publish a single national student application form or a
+universal deadline on its public pages.
+
+**Why it's worth a look:** drug distribution and supply chain is a large pharmacist employment
+sector that almost no student rotates through, and it's directly relevant to drug shortages,
+340B, and health-system contracting.
 
 ### Boehringer Ingelheim — PharmD Advanced Pharmacy Practice Experiences Program
 **Location:** Ridgefield, CT (US headquarters)
@@ -64,35 +109,76 @@ different tracks, worth knowing they exist.
 **Link:** [careers.gene.com/us/en/students-rotations](https://careers.gene.com/us/en/students-rotations)
 Rotational programs for students; check current cycle openings.
 
-### Johnson & Johnson Innovative Medicine
+### Johnson & Johnson Innovative Medicine ⚠️
+**Status (July 2026):** periodic posting or school-specific. **No active national APPE page
+was verified** — the generic student-careers link that circulated previously is *not* a
+dedicated APPE application.
 **Location:** Titusville / Raritan / Horsham (NJ and eastern PA)
-Best known for a **12-month drug information / medical information fellowship** (documented
-via [Purdue's industry-affiliated programs page](https://www.phpr.purdue.edu/fellowships/fda-and-industry-affiliated-programs/drug-information)).
-APPE-level placements exist but typically run through school agreements rather than a public
-portal — a cold-outreach and networking target.
+
+**How to pursue:** search current J&J postings using the terms *APPE, PharmD, Medical Affairs,
+Regulatory, Clinical Development, Pharmacovigilance*. Ask your experiential office whether a
+J&J site agreement or preceptor relationship already exists.
+[J&J Early Career Programs](https://www.careers.jnj.com/en/early-career/)
+
+J&J also runs a well-known 12-month **medical information fellowship** (documented via
+[Purdue's industry-affiliated programs page](https://www.phpr.purdue.edu/fellowships/fda-and-industry-affiliated-programs/drug-information)).
 
 ### Novo Nordisk
 **Location:** Plainsboro, NJ
 **Link:** [Early career programs](https://www.novonordisk-us.com/careers/early-career-programs.html)
 
-### Others with documented PharmD student rotations
-Reported by schools and student accounts rather than always having a public application page.
-Verify each individually and route through IPhO's list:
+---
 
-**New Jersey / eastern PA (your backyard):** Merck (Rahway/Upper Gwynedd), Pfizer (NYC/Peapack),
-Johnson & Johnson, Novartis (East Hanover), Sanofi (Bridgewater), Bayer (Whippany),
-Organon (Jersey City), Otsuka (Princeton), Daiichi Sankyo (Basking Ridge), Eisai (Nutley),
-Teva (Parsippany/West Chester PA), Amneal (Bridgewater), Regeneron (Tarrytown NY),
-GSK (Philadelphia/Upper Providence PA), CSL Behring (King of Prussia PA), Incyte (Wilmington DE),
-Jazz (Philadelphia).
+## School-arranged companies — verified status, July 2026 ✅
+
+These organizations **may** host APPE students, have hosted students through specific schools,
+or offer relevant experiential pathways. As of the July 2026 review, **a current national
+public APPE application was not verified** for any of them unless noted. **Begin with your
+experiential office.**
+
+The value here is the corrections — several of these carried stale deadlines in older copies
+of this list, and chasing a dead date costs you weeks.
+
+| Company | Status / timing | Relevant areas & notes |
+| --- | --- | --- |
+| **AstraZeneca** | School-arranged. No current public APPE deadline verified. | ⚠️ **The prior October 25 deadline was removed** — not found on any current official APPE page. Ask your OEE about existing preceptors or agreements; search Early Talent using *APPE, PharmD, Medical Affairs, Regulatory*. Wilmington, DE. |
+| **Chiesi USA** | School-arranged. No national APPE page or mid-October deadline verified. | ⚠️ The prior Medical Affairs APPE description may reflect a **school-specific** offering. Have your OEE contact Chiesi Medical Affairs or talent acquisition. Prepare a CV, one-page letter of interest, proposed block dates, and your school's contract contact. Cary, NC. |
+| **Evidera / PPD (Thermo Fisher Scientific)** | School-arranged. No public APPE application verified. | Evidera is a PPD business within Thermo Fisher. **HEOR, real-world evidence, medical writing, evidence synthesis, market access, clinical research.** Strong fit for an HEOR or med-writing interest. |
+| **L'Oréal USA — Integrated Health / Health Sciences** | School-specific. No national application verified. | ⚠️ The prior Microsoft form appeared **specific to UNC** and was removed as a national link. Ask your OEE whether your school has an Integrated Health contact. Consumer health / dermatology adjacency. |
+| **Medscape (WebMD)** | School-arranged. No public APPE application verified. | Medscape operates within the WebMD Health Network. **Medical information, medical writing, drug reference/editorial content, clinical strategy, CME.** Note: careers postings are *not* automatically APPEs. NYC. |
+| **Payer Sciences (Publicis Health)** | School-arranged. No public APPE application verified. | Active market access brand backed by Publicis Health. **Market access analytics, strategy, communications, evidence and value, payer engagement.** Ask your OEE to inquire about a project-based APPE. Parsippany, NJ. |
+| **Premier Pharma Mentors** | School partnership / direct outreach. **Virtual offerings.** | Currently advertises **virtual** rotations in Pharmacists in Consulting, Ambulatory Care, and Managed Care. ⚠️ The site directs schools to bring the program in. **Confirm academic credit, preceptor qualifications, affiliation terms, schedule, and any student or school costs before enrolling.** |
+| **Procter & Gamble** | School-arranged. No national application verified. | ⚠️ **The prior mid-October deadline and rotation PDF were not confirmed.** Ask your OEE about established P&G sites in consumer health, regulatory, medical/scientific affairs, product safety, or research. The Student Programs page is a general early-career resource, not an APPE application. |
+| **ProPharma** | School-arranged. No public APPE application verified. | **Medical Information, Pharmacovigilance, Regulatory Sciences, Medical Writing, Quality and Compliance, CRO services.** Ask your OEE to identify a contact. |
+| **Radius Health → Paratek Pharmaceuticals** | Company name/status updated. No public APPE application verified. | Radius Health now identifies as part of **Paratek Pharmaceuticals**. Ask your OEE whether an existing Radius/Paratek preceptor relationship remains active. |
+| **United Therapeutics** | School-arranged. No national APPE page or deadline verified. | ⚠️ The prior Medical Information and Drug Safety Google Drive documents and mid-October deadline **were not retained**. **Medical Information, Global Patient Safety, Science and Medical Affairs, Clinical Trials, rare disease.** Silver Spring, MD / RTP, NC. |
+| **Vizient** | School-arranged. No public APPE application verified. | ⚠️ The prior pharmacy fellowship/PGY2 link describes **postgraduate** programs, not an APPE. **Pharmacy informatics, supply chain, sourcing, analytics, quality, consulting, healthcare operations.** |
+
+### ⛔ Do not pursue: NASA Aerospace Medicine Clerkship
+
+Flagged as an explicit correction in the July 2026 edition. **This is not a PharmD APPE.**
+NASA states the minimum educational requirement is the **final year of medical school**;
+residents and attending physicians may also apply. The prior edition of this list wrongly
+included it as a pharmacy-student option. Don't spend time on it.
+
+---
+
+## Other regional employers worth a cold email
+
+Not in the IPhO list — these are companies with a significant presence in your region.
+**None are confirmed APPE hosts.** Treat them as networking and cold-outreach targets, and
+check with your OEE for existing agreements.
+
+**New Jersey / eastern PA:** Merck (Rahway/Upper Gwynedd), Pfizer (NYC/Peapack),
+Novartis (East Hanover), Sanofi (Bridgewater), Bayer (Whippany), Organon (Jersey City),
+Otsuka (Princeton), Daiichi Sankyo (Basking Ridge), Eisai (Nutley), Teva (Parsippany/West
+Chester), Amneal (Bridgewater), Regeneron (Tarrytown NY), GSK (Philadelphia/Upper Providence),
+CSL Behring (King of Prussia), Incyte (Wilmington DE), Jazz (Philadelphia).
 
 **Massachusetts:** Takeda (Cambridge/Lexington), Vertex, Biogen, Alexion/AstraZeneca,
 Moderna, Sanofi Genzyme, Amgen (Cambridge).
 
-**Elsewhere:** Eli Lilly (Indianapolis), AbbVie (North Chicago), Gilead (Foster City),
-AstraZeneca (Wilmington DE — Mid-Atlantic), Bristol Myers Squibb (see above).
-
----
+**Elsewhere:** Eli Lilly (Indianapolis), AbbVie (North Chicago), Gilead (Foster City).
 
 ## Contract research and clinical trials
 

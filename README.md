@@ -4,6 +4,9 @@ A working library of Advanced Pharmacy Practice Experience (APPE) sites, applica
 rotation programs, deadlines, and application resources — built for a P3 planning the P4 year.
 
 **Research date:** September 3, 2026
+**Primary source:** *APPE Options in Industry, Clinical Trials, or Federal Pharmacy* (IPhO),
+updated and link-verified **July 2026** — credit Jill Hernandez, PharmD, MHA and Jordan Skiera,
+PharmD Candidate 2025, Samford University.
 **Focus:** Nationally-open programs + Northeast / Mid-Atlantic sites, weighted toward
 **industry, regulatory, government, and academia**.
 
@@ -45,17 +48,26 @@ found a great site in November when the deadline was September 15.
 
 ---
 
-## The five deadlines closest to today (Sept 3, 2026)
+## The deadlines closest to today (Sept 3, 2026)
 
-| Program | Reported window | Status |
+| Program | Window | Status |
 | --- | --- | --- |
-| **ACCP Professional Leadership APPE** | Aug 1 – **Sep 15** | 🔴 Closes in ~2 weeks |
-| **Bristol Myers Squibb APPE** | **Sep 1 – Sep 19** | 🔴 Open right now |
-| **USPHS JRCOSTEP** (P2/P3 externship) | Jul 1 – **Sep 15** | 🔴 Closes in ~2 weeks |
-| **AACP Association Management APPE** | Materials due **Nov 1** | 🟡 ~8 weeks |
-| **NIH Clinical Center APPE** | Reported **Oct 31** | 🟡 ~8 weeks |
+| **Bristol Myers Squibb APPE** ✅ | **Sep 1 – Sep 19**; rec. letter due **Oct 3** | 🔴 Open now. Virtual/hybrid. |
+| **ACCP Professional Leadership APPE** 🔎 | Aug 1 – **Sep 15** | 🔴 ~2 weeks; needs 2 faculty letters |
+| **USPHS JRCOSTEP** (P2/P3, paid) 🔎 | Jul 1 – **Sep 15** | 🔴 ~2 weeks |
+| **St. Jude APPE** ✅ | **Sep 1 – Oct 23, 2026**; decisions Jan 15 | 🔴 Open now |
+| **PQA APPE** ✅ | Opens **Sep**, due **Nov**, offers Dec | 🟡 Open now |
+| **AACP Association Mgmt APPE** 🔎 | Due **Nov 1** | 🟡 ~8 weeks |
+| **CDC** ✅ | **No fixed deadline** — email pharmacists@cdc.gov | 🟡 Email now |
 
-Full calendar, plus the ~25 other programs tracked, in
+✅ = confirmed against the **July 2026 link-verified IPhO document**.
+🔎 = from my own web research; verify before relying on it.
+
+⚠️ **Two corrections** to earlier drafts of this repo: the widely-circulated **NIH Clinical
+Center Oct 31 deadline is not confirmed** on the current official page, and **PQA is due in
+November, not December 31**. Details in [02](docs/02-timeline-and-deadlines.md).
+
+Full calendar, plus the ~30 other programs tracked, in
 [02 — Timeline & Deadlines](docs/02-timeline-and-deadlines.md).
 
 ---
