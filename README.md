@@ -59,13 +59,16 @@ found a great site in November when the deadline was September 15.
 | **PQA APPE** ✅ | Opens **Sep**, due **Nov**, offers Dec | 🟡 Open now |
 | **AACP Association Mgmt APPE** 🔎 | Due **Nov 1** | 🟡 ~8 weeks |
 | **CDC** ✅ | **No fixed deadline** — email pharmacists@cdc.gov | 🟡 Email now |
+| **FDA PSEP** ❓ | Pause notice is labeled **2026–27**, not 27–28. Historical window: **Sep 1 – Oct 31 of P3** | 🔴 Possibly open now — ask your coordinator |
 
 ✅ = confirmed against the **July 2026 link-verified IPhO document**.
 🔎 = from my own web research; verify before relying on it.
 
-⚠️ **Two corrections** to earlier drafts of this repo: the widely-circulated **NIH Clinical
+⚠️ **Corrections** to earlier drafts of this repo: the widely-circulated **NIH Clinical
 Center Oct 31 deadline is not confirmed** on the current official page, and **PQA is due in
-November, not December 31**. Details in [02](docs/02-timeline-and-deadlines.md).
+November, not December 31**. And the **FDA PSEP pause notice is labeled 2026–27** — it may not
+apply to a 2027–28 application at all. Details in [02](docs/02-timeline-and-deadlines.md) and
+[03](docs/03-federal-government.md).
 
 Full calendar, plus the ~30 other programs tracked, in
 [02 — Timeline & Deadlines](docs/02-timeline-and-deadlines.md).

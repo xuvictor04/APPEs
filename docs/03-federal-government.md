@@ -8,35 +8,71 @@ unpaid academic credit (the COSTEP externships are the paid exception).
 
 ---
 
-## FDA — Pharmacy Student Experiential Program (PSEP)
+## FDA — Pharmacy Student Experiential Program (PSEP) ❓ status unresolved
 
-**Location:** Silver Spring, MD (White Oak campus) and other FDA sites
+**Location:** Silver Spring, MD (White Oak) and other FDA sites
 **Duration:** 4–6 weeks, offered year-round
-**Link:** [FDA PSEP overview](https://www.fda.gov/about-fda/scientific-internships-fellowships-trainees-and-non-us-citizens/fda-pharmacy-student-experiential-program) ·
+**Email:** **Pharmacy.Student@fda.hhs.gov**
+**Phone:** (855) 543-3784 toll free · (301) 796-3400
+**Application portal:** [FDA PSEP online application](https://www.accessdata.fda.gov/scripts/FDASpeaker/Students.cfm)
+**Links:** [PSEP overview](https://www.fda.gov/about-fda/scientific-internships-fellowships-trainees-and-non-us-citizens/fda-pharmacy-student-experiential-program) ·
 [How to apply](https://www.fda.gov/about-fda/fda-pharmacy-student-experiential-program/how-apply) ·
 [About PSEP](https://www.fda.gov/about-fda/fda-pharmacy-student-experiential-program/about-fda-psep) ·
+[Program history](https://www.fda.gov/about-fda/fda-pharmacy-student-experiential-program/program-history) ·
 [Information for placed students](https://www.fda.gov/about-fda/fda-pharmacy-student-experiential-program/information-placed-students)
 
-> ⛔ **Status alert:** As of the research date, FDA's pages reported that PSEP APPE
-> opportunities are **currently unavailable and not accepting applications for the
-> 2026–2027 academic year**. Check the "How to Apply" page directly before writing this off
-> for later cycles — this has been a pause, not a permanent closure, in the past.
+### ❓ Read this before writing FDA off
 
-**What you'd do:** Rotations sit across FDA's centers and offices — CDER (drug evaluation),
+FDA's pages carry a notice that APPE opportunities are unavailable and that FDA is **"not
+accepting applications for the 2026–2027 academic year at this time,"** adding that
+**"Experiential Coordinators will be notified directly when the application process reopens."**
+
+**That notice is labeled 2026–27. If you're targeting 2027–28 rotations, it does not
+necessarily describe your cycle.** Two readings are possible and I could not resolve which is
+right — fda.gov is unreachable from the environment these docs were researched in:
+
+1. **The notice is last cycle's text**, left in place. In that case applications for 2027–28
+   may be open **right now** — see the timing below.
+2. **The program is still paused.** The "will be notified when it reopens" phrasing leans this
+   way, but it doesn't name a year, so it doesn't settle the question either.
+
+### Why this is urgent either way
+
+PSEP historically accepts applications **in the fall preceding your final year — i.e., at the
+start of P3.** A previous cycle's window ran **September 1 – October 31.**
+
+You are a P3 in September 2026 targeting 2027–28 rotations. **If PSEP is open for your cycle,
+that window is open today.** Do not wait for a posted announcement.
+
+### What to do this week
+
+1. **Ask your experiential coordinator.** They are the notification channel — FDA says
+   coordinators are contacted directly when applications reopen. Your coordinator may already
+   have the notice sitting in their inbox. This is the highest-yield step, and it costs one email.
+2. **Email Pharmacy.Student@fda.hhs.gov** and ask plainly: *are applications open for the
+   2027–2028 academic year, and if not, when do you expect them to reopen?*
+3. **Check the [online application portal](https://www.accessdata.fda.gov/scripts/FDASpeaker/Students.cfm)** —
+   if it accepts an entry, the cycle is live regardless of what the static page says.
+4. **Note the process:** students apply **with support from their school's experiential
+   coordinator**, not independently. Loop them in first, not last.
+
+**Eligibility:** U.S. citizenship, enrollment in an ACPE-accredited PharmD program, eligible
+to begin APPE rotations.
+
+**What you'd do:** rotations sit across FDA's centers and offices — CDER (drug evaluation),
 CBER (biologics), CDRH (devices), the Office of Clinical Pharmacology, drug safety and
 pharmacovigilance, regulatory review, and policy offices.
 
-**Eligibility:** U.S. citizenship, enrollment in an ACPE-accredited PharmD program,
-eligible to begin APPEs.
+### Backup routes into FDA
 
-**Related FDA entry points if PSEP stays closed:**
-- **CDER Student Volunteer Service Program (SVSP)** — PSEP historically sits inside SVSP.
-- **ORISE fellowships** — [FDA scientific fellowships and training programs in CDER](https://www.fda.gov/about-fda/jobs-center-drug-evaluation-and-research-cder/scientific-fellowships-and-training-programs-cder).
+Worth pursuing in parallel, not only if PSEP is closed:
+
+- **CDER Student Volunteer Service Program (SVSP)** — PSEP has historically sat inside SVSP.
+- **ORISE fellowships** —
+  [FDA scientific fellowships and training programs in CDER](https://www.fda.gov/about-fda/jobs-center-drug-evaluation-and-research-cder/scientific-fellowships-and-training-programs-cder).
   ORISE support has been available for pre-doctoral students in the Office of Clinical
   Pharmacology. Not an APPE, but the same building and the same network.
-- **JRCOSTEP/SRCOSTEP** — FDA is a participating agency (see USPHS below).
-
----
+- **JRCOSTEP / SRCOSTEP** — FDA is a participating agency (see USPHS below).
 
 ## NIH Clinical Center — Pharmacy Department ⚠️ status corrected
 

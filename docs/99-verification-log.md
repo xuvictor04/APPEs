@@ -69,7 +69,7 @@ deadlines were all removed in the July 2026 review as unverifiable. Don't plan a
 | **AACP deadline Nov 1** | The source snippet referenced a November 1 of an earlier year. The date likely recurs; the year in the source was old. |
 | **NACDS priority deadline Jan 16** | Framed as priority review, not a hard close. |
 | **USPHS JRCOSTEP Jul 1 – Sep 15** | Single source. |
-| **FDA PSEP paused for 2026–27** | From FDA's own pages via search summary, corroborated across two searches, but I could not open the page. **Check [How to Apply](https://www.fda.gov/about-fda/fda-pharmacy-student-experiential-program/how-apply) before ruling FDA out.** |
+| **FDA PSEP status for 2027–28** | ❓ **Unresolved and important.** FDA's notice reads *"not accepting applications for the 2026–2027 academic year at this time"* — that label does **not** describe a 2027–28 application. It adds that *"Experiential Coordinators will be notified directly when the application process reopens,"* which leans toward a continuing pause but names no year. fda.gov is egress-blocked from this environment, so I could not read the live page to settle it. PSEP historically opens **Sep 1 – Oct 31 of the P3 fall** — i.e. now. **Ask your experiential coordinator and email Pharmacy.Student@fda.hhs.gov.** |
 | **ASHP: no placements Dec/May/Jun/Jul** | Single source; a real scheduling constraint if true. |
 | **AMCP, ASHP, ASCP, APhA, NCPA, USP timing** | Rolling or annual; none independently verified. |
 | **IHS, VA processes** | Structurally accurate but facility- and school-dependent. |
@@ -112,7 +112,8 @@ deadlines were all removed in the July 2026 review as unverifiable. Don't plan a
 5. **Ask your OEE to call NIH Clinical Center Pharmacy** (301-496-4363). ✅
 6. **Ask your OEE about Cencora** participation. ✅
 7. **Verify ACCP and JRCOSTEP** (both reportedly close Sep 15). 🔎
-8. **Re-check FDA PSEP status.** 🔎
+8. **FDA PSEP** — ask your experiential coordinator whether they've had a 2027–28 notice, and
+   email Pharmacy.Student@fda.hhs.gov. The historical window is open now. ❓
 
 ---
 

@@ -34,7 +34,7 @@ research (September 3, 2026) and still need verification — see
 | Rolling | **APhA**, **NCPA**, **USP** | Association / standards | 🔎 |
 | Via your OEE | **IHS APPE** | Federal | 🔎 |
 | Per-facility | **VA medical center APPEs** | Federal | 🔎 |
-| ⛔ Paused | **FDA PSEP** — reported not accepting applications for 2026–27 | Federal | 🔎 |
+| ❓ **Possibly open now** | **FDA PSEP** — pause notice is labeled **2026–27**; historical window is **Sep 1 – Oct 31** of P3 | Federal | ❓ |
 | ⛔ Not a PharmD program | **NASA Aerospace Medicine Clerkship** | — | ✅ |
 
 ---
@@ -53,6 +53,13 @@ be established. Phone: **301-496-4363**.
 Applications **open in September, are due in November, and offers go out in December.** My
 earlier "December 31" came from an older cycle page. Treat November as the working deadline
 and confirm the exact date with PQA.
+
+**FDA PSEP — the pause notice may not apply to your cycle.**
+FDA's notice says it is not accepting applications *"for the 2026–2027 academic year."* If
+you're targeting **2027–28** rotations, that label doesn't cover you. PSEP historically opens
+**September 1 – October 31 of your P3 fall** — which is **now**. Ask your experiential
+coordinator (FDA notifies coordinators directly when it reopens) and email
+**Pharmacy.Student@fda.hhs.gov**. Full detail in [03](03-federal-government.md).
 
 **CDC has no fixed public deadline.**
 The July 2026 review lists CDC as *"no fixed public deadline — email for current cycle
@@ -134,6 +141,9 @@ rotation**. If you're a P3 in fall 2026 applying for 2027–28, you are in the t
 - [ ] **JRCOSTEP** if eligible — closes Sep 15.
 - [ ] **PQA** — applications open this month. Note the transcript and the school approval letter.
 - [ ] **Email CDC** (pharmacists@cdc.gov) and ask about the current cycle — there's no posted date.
+- [ ] **Ask your experiential coordinator about FDA PSEP for 2027–28**, and email
+      Pharmacy.Student@fda.hhs.gov. The historical window (Sep 1 – Oct 31 of P3) is open now,
+      and the posted pause notice is labeled 2026–27, not your year.
 - [ ] **Book your OEE meeting.** Bring 8–12 target sites and ask, for each: do we have an
       agreement, and if not, can we get one in time?
 - [ ] Finalize your CV. See [11 — Application Materials](11-application-materials.md).
