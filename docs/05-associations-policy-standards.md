@@ -16,14 +16,14 @@ they're strikingly under-applied-to relative to clinical electives.
 
 | Organization | Location | Reported deadline | Focus |
 | --- | --- | --- | --- |
-| **ASHP** | Bethesda, MD | Annual cycle | Health-system pharmacy, practice standards |
+| **ASHP** | Bethesda, MD | **Rolling — no deadline** | Health-system pharmacy, practice standards |
 | **APhA** | Washington, DC | Rolling | Profession-wide advocacy, student programs |
-| **AMCP** | Alexandria, VA | Annual cycle | Managed care |
+| **AMCP** | Alexandria, VA | Annual cycle | Managed care (4–5 wks, flexible end date) |
 | **NCPA** | Alexandria, VA | Year-round | Independent community pharmacy |
 | **NACDS** | Arlington, VA | **Jan 16** (priority) | Chain community pharmacy |
-| **AACP** | Arlington, VA | **Nov 1** | Pharmacy education / academia |
+| **AACP** | Arlington, VA | **Nov 1** | Academia (months: Sep, Oct, Jan, Mar, Apr) |
 | **ACCP** | (national) | **Aug 1 – Sep 15** | Clinical pharmacy leadership |
-| **ASCP** | Alexandria, VA | Annual cycle | Senior care / consultant pharmacy |
+| **ASCP** | Alexandria, VA | **2027–28 page is live** | Senior care / consultant pharmacy |
 | **PQA** | Alexandria, VA / remote | Opens Sep, **due Nov** | Quality measurement |
 | **USP** | Rockville, MD | Rolling | Standards, compendia |
 | **NABP** | Mount Prospect, IL | Inquire | Regulation, licensure |
@@ -39,6 +39,10 @@ strong CV and one adaptable letter of intent covers most of the set.
 **Duration:** 4–6 weeks
 **Link:** [ashp.org/appe](https://www.ashp.org/appe) ·
 [Resident rotation](https://www.ashp.org/resident-rotation)
+
+**Deadline: none.** ASHP accepts applications **year-round on an ongoing basis** — this is one
+of the few competitive association rotations without a fixed cutoff. That makes it a good
+late-cycle option once the block-deadline programs have closed.
 
 **Scheduling constraint:** placements are **not available in December, May, June, or July**.
 Plan your block calendar around that before applying.
@@ -78,6 +82,8 @@ student/new-practitioner programming. Natural for APhA-ASP chapter officers.
 **Link:** [Program page](https://www.amcp.org/resource-center/group-resources/residents-fellows/residencies-fellowships/amcp-experiential-program-association-leadership-management) ·
 [AMCP APPE rotation](https://www.amcp.org/resource-center/group-resources/student-pharmacist-center/APPE-IPPE-Directory/amcp-appe-rotation)
 
+**Duration:** 4–5 weeks with a **flexible end date** designed to fit most APPE schedules.
+
 **Application materials:**
 - Completed APPE application
 - **500-word essay** on career goals and interest in managed care and/or association management
@@ -91,6 +97,8 @@ and a [managed care internships page](https://www.amcp.org/resource-center/group
 listing rotations at **health plans and PBMs across the country** — far more sites than AMCP's
 own headquarters rotation. This is the highest-yield single link for managed care. See
 [06 — Managed Care & PBM](06-managed-care-pbm.md).
+
+Also useful: the [AMCP APPE curriculum and program description (PDF)](https://www.amcp.org/sites/default/files/2019-11/APPE_Curriculum.pdf).
 
 AMCP also publishes [How to Develop a Managed Care Pharmacy IPPE/APPE](https://www.amcp.org/resource/how-develop-managed-care-pharmacy-ippeappe)
 — hand this to a health plan pharmacist who's willing but doesn't know how to structure it.
@@ -122,9 +130,12 @@ and staff sides — discussions, journal clubs, presentations, and writing proje
 ## AACP — Association Management APPE
 **Location:** Arlington, VA
 **Reported deadline:** materials to **APPE@aacp.org by November 1**
+**Duration:** 4–6 weeks. **Available months are generally September, October, January, March,
+and April** — check that against your block calendar before you apply.
 **Link:** [Student Pharmacist APPE Application](https://www.aacp.org/form/student-pharmacist-appe-application) ·
 [Syllabus (PDF)](https://www.aacp.org/sites/default/files/2022-08/aacp-appe-syllabus.pdf)
 
+You would work closely with association leaders including senior directors and vice presidents.
 Selected students need a **strong interest in national association management and academia**.
 This is the single best association rotation if your goal is a career in pharmacy education.
 
@@ -140,6 +151,11 @@ See [07 — Academia, Teaching & Research](07-academia-teaching-research.md).
 **Format:** onsite Tuesday/Wednesday/Thursday, remote option Monday and Friday — a hybrid
 schedule that makes commuting from the Northeast corridor plausible
 **Link:** [nacds.org/appe](https://www.nacds.org/appe/)
+
+**Eligibility — note the timing requirement:** full-time enrollment in an accredited U.S.
+school or college of pharmacy, good academic standing, and **in your final didactic year**
+(i.e., you apply as a P3). **Chain community pharmacy experience is preferred** — if you have
+retail intern hours, say so explicitly in your application.
 
 Focus is the chain community pharmacy sector: federal and state policy affecting retail
 pharmacy, reimbursement, scope of practice, and the business of community pharmacy. Strong
@@ -164,8 +180,10 @@ closed.
 
 ## ASCP — Association Leadership & Management APPE
 **Location:** Alexandria, VA
-**Link:** [ascp.com/page/APPE](https://www.ascp.com/page/APPE) (page is maintained by
-academic year — check the current cycle)
+**Link:** [ascp.com/page/APPE](https://www.ascp.com/page/APPE) — the page is currently titled
+**"APPE Rotation for 2027–2028 Academic Year,"** so this cycle is live. Also see the
+[senior care student rotation guidelines (PDF)](https://cdn.ymaws.com/www.ascp.com/resource/resmgr/docs/membership/students-rotations-guideline.pdf)
+and [ASCP student page](https://www.ascp.com/page/students).
 
 Non-patient-care elective in senior care pharmacy and consultant pharmacy, with a strong
 continuing-education and professional-society component. Relevant if you're interested in
@@ -232,6 +250,43 @@ inspection ride-alongs, disciplinary case review, and rulemaking. NABP's member 
 lists every board. In the Northeast, look at the boards of pharmacy in NJ, NY, PA, MD, CT,
 and MA. These are almost always cold-outreach arrangements, and they're rarely competitive
 because so few students think to ask.
+
+---
+
+## State and regional pharmacy associations — an underused category
+
+National associations get all the attention, but **state associations run APPE rotations too**,
+and far fewer students apply. Two with documented, publicly posted programs:
+
+- **[North Carolina Association of Pharmacists — APPE Elective Rotations](https://www.ncpharmacists.org/appe-elective-rotations)**
+- **[California Pharmacists Association — APPE Program](https://cpha.com/advanced-pharmacy-practice-experience-program/)** —
+  posts specific rotation blocks with their own deadlines (e.g., a February block with a
+  preceding November deadline)
+
+**In your region**, these have active student divisions and are worth a direct inquiry even
+where no APPE is advertised — a state association is small enough that one email can create a
+rotation that doesn't exist yet:
+
+| Association | Notes |
+| --- | --- |
+| [Pennsylvania Pharmacists Association](https://www.papharmacists.com/students/) | Active student programming |
+| [Pharmacists Society of the State of New York (PSSNY)](https://www.pssny.org/) | Has a student division (SPSSNY) |
+| [New York State Council of Health-system Pharmacists](https://www.nyschp.org/) | Health-system focus |
+| [NYC Society of Health-system Pharmacists](https://nycshp.org/) | Metro-area network |
+| New Jersey Pharmacists Association | Advocacy and licensure policy |
+| Maryland Pharmacists Association · Massachusetts Pharmacists Association · Connecticut Pharmacists Association | Regional advocacy |
+
+**Full directory:** [State pharmacy associations list](https://www.papharmacists.com/page/StateAssociations) —
+every state has one.
+
+**Why bother:** state-level advocacy is where scope-of-practice and reimbursement law actually
+gets made, and a state association rotation puts you in the room for it. The ask is also far
+lower-stakes than a national program — you're often talking to a small staff who would welcome
+the help.
+
+**Related credentialing body:** the [Board of Pharmacy Specialties](https://bpsweb.org/) has
+hosted APPE students and published a
+[student's account of the rotation](https://bpsweb.org/2024/08/29/on-rotation-an-appe-students-perspective-of-pharmacist-certification/).
 
 ---
 

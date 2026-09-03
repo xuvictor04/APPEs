@@ -39,6 +39,13 @@ because search engines index stale cycle pages constantly.
 | **Cencora** | Application-based, **competitive**; wholesale drug distribution & supply chain; annual cohort with in-person programming at HQ; conducted through partnerships with **select universities**; no national form or universal deadline |
 | **12 school-arranged companies** | AstraZeneca, Chiesi USA, Evidera/PPD, J&J, L'Oréal, Medscape/WebMD, Payer Sciences, Premier Pharma Mentors, P&G, ProPharma, Radius/Paratek, United Therapeutics, Vizient — status, relevant areas, and how to pursue. See [04](04-industry-and-regulatory.md). |
 | **NASA Aerospace Medicine Clerkship** | **Not a PharmD APPE.** Minimum requirement is the final year of **medical** school. Explicitly corrected out of the prior edition. |
+| **ASHP** (Sep 2026 search) | **Applications accepted year-round, no deadline.** Corrects my earlier "annual cycle." Still: active ASHP membership required; no Dec/May/Jun/Jul placements. |
+| **ASCP** (Sep 2026 search) | The program page is currently titled **"APPE Rotation for 2027–2028 Academic Year"** — your cycle is live. |
+| **AACP** (Sep 2026 search) | 4–6 weeks; **available months are generally September, October, January, March, April**; you work with senior directors and VPs. |
+| **AMCP** (Sep 2026 search) | **4–5 weeks with a flexible end date** designed to fit most APPE schedules. |
+| **NACDS** (Sep 2026 search) | Eligibility requires being **in your final didactic year**; **chain community pharmacy experience preferred**; 4–6 weeks. |
+| **Cencora** (Sep 2026 search) | **Six-week** rotation for P4s covering supply chain operations, **finance**, customer engagement, and consultative selling; culminates in in-person programming at HQ. |
+| **State pharmacy associations** | **NC Association of Pharmacists** and **California Pharmacists Association** both post APPE elective programs. A category I initially underweighted. |
 | **Outreach package guidance** | See [11](11-application-materials.md) — including: do not send transcripts or sensitive personal data until requested through an official process |
 
 ---
@@ -70,8 +77,9 @@ deadlines were all removed in the July 2026 review as unverifiable. Don't plan a
 | **NACDS priority deadline Jan 16** | Framed as priority review, not a hard close. |
 | **USPHS JRCOSTEP Jul 1 – Sep 15** | Single source. |
 | **FDA PSEP status for 2027–28** | ❓ **Unresolved and important.** FDA's notice reads *"not accepting applications for the 2026–2027 academic year at this time"* — that label does **not** describe a 2027–28 application. It adds that *"Experiential Coordinators will be notified directly when the application process reopens,"* which leans toward a continuing pause but names no year. fda.gov is egress-blocked from this environment, so I could not read the live page to settle it. PSEP historically opens **Sep 1 – Oct 31 of the P3 fall** — i.e. now. **Ask your experiential coordinator and email Pharmacy.Student@fda.hhs.gov.** |
-| **ASHP: no placements Dec/May/Jun/Jul** | Single source; a real scheduling constraint if true. |
-| **AMCP, ASHP, ASCP, APhA, NCPA, USP timing** | Rolling or annual; none independently verified. |
+| **ACCP window Aug 1 – Sep 15 for 2027–28** | Described as the recurring annual window and corroborated by ACCP's own posts about prior cycles, but the 2027–28 dates were **not** independently confirmed. Given your FDA catch, treat any year-labeled source with suspicion. |
+| **AMCP, APhA, NCPA, USP exact timing** | Rolling or annual; exact 2027–28 dates not posted publicly. |
+| **PPA, PSSNY, NJPhA APPEs** | These state associations have active student divisions, but **no posted APPE program was found**. Inquiry targets, not confirmed programs. |
 | **IHS, VA processes** | Structurally accurate but facility- and school-dependent. |
 
 ---

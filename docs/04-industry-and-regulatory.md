@@ -71,25 +71,37 @@ affiliation agreement is not a reason to skip applying — apply first, contract
 > The highest-value deadline on the calendar today. If industry is your direction, this is
 > this week's priority, and the virtual/hybrid format removes the usual logistics objection.
 
-### Cencora (formerly AmerisourceBergen) — APPE Program ✅
+### Cencora (formerly AmerisourceBergen) — APPE Pharmacy Distribution Leadership Rotation ✅
 **Status:** application-based, **competitive** — explicitly *not* an informal rotation you can
 set up by cold-emailing.
-**Timing:** annual competitive selection; **timing varies by participating school**.
-**Link:** Cencora Pharmacy Education / Cencora APPE Program (via
-[cencora.com](https://www.cencora.com/))
+**Length:** **six weeks**, for fourth-year pharmacy students
+**Timing:** annual competitive selection; **timing varies by participating school**
+**Link:** [Cencora APPE Program](https://www.cencora.com/resources/enterprise/diversity-equity-and-inclusion-appe-program) ·
+[Pharmacy education](https://www.cencora.com/newsroom/pharmacy-supply-chain-education) ·
+[Distribution leadership rotation launch](https://www.cencora.com/newsroom/ab-launches-pharmacy-distribution-leadership-rotation-course-at-xula)
 
-**Program:** an APPE in **wholesale drug distribution and supply chain management**. The
-annual cohort completes training that culminates with in-person programming at Cencora
-headquarters (Conshohocken, PA — inside your region).
+**What you'd learn:** supply chain business operations, **finance**, customer engagement,
+consultative selling, and the value-added services that support health systems, pharmacies,
+and physician practices. The rotation is built around the interconnectivity between supply
+chain stakeholders — distributors, manufacturers, providers — and where pharmacists sit in it.
+The annual cohort's training **culminates in in-person programming at Cencora headquarters**
+(Conshohocken, PA — inside your region).
 
 **How to apply:** ask your experiential office whether your school is a **participating
 university**, then request the current application, the internal nomination process, and the
 deadline. Cencora does **not** publish a single national student application form or a
-universal deadline on its public pages.
+universal deadline.
 
 **Why it's worth a look:** drug distribution and supply chain is a large pharmacist employment
-sector that almost no student rotates through, and it's directly relevant to drug shortages,
-340B, and health-system contracting.
+sector almost no student rotates through, and it's directly relevant to drug shortages, 340B,
+and health-system contracting. The finance and consultative-selling content is also unusual —
+very little else in a PharmD curriculum touches it.
+
+**Related Cencora pathways:** [Xcenda](https://www.xcenda.com/careers-student-programs) is
+Cencora's HEOR, market access, and consulting arm and runs its own student programs — a strong
+target if your interest is health economics or payer strategy. Cencora also runs a Pharmacy
+Supply Chain Residency and a combined PGY1/PGY2 Corporate Pharmacy Administration and
+Leadership (CPAL) program, useful to know for the post-grad step.
 
 ### Boehringer Ingelheim — PharmD Advanced Pharmacy Practice Experiences Program
 **Location:** Ridgefield, CT (US headquarters)
@@ -191,6 +203,8 @@ Under-applied-to and often more willing to host students than big pharma.
 | **Syneos Health / Inizio** | Morrisville NC, NJ | Medical affairs, commercial |
 | **Fortrea, ICON, PPD/Thermo Fisher** | Various | Clinical operations, pharmacovigilance |
 | **Academic trial units** | Any AMC near you | Investigational Drug Service — see below |
+| **Medical communications agencies** | NJ/NY/PA corridor | Publication planning and tracking, speaker training and management, event planning, scientific manuscripts. Small agencies often host students where big pharma can't. |
+| **Xcenda (Cencora)** | Carrollton TX / remote | [Student programs](https://www.xcenda.com/careers-student-programs) — HEOR, market access, consulting |
 
 **Investigational Drug Service (IDS)** rotations at academic medical centers are the most
 accessible on-ramp to clinical research and often the easiest to arrange, since they're

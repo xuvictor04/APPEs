@@ -25,13 +25,15 @@ research (September 3, 2026) and still need verification — see
 | **Sep 1 – Oct 23, 2026** 🔴 | **St. Jude Children's Research Hospital APPE**<br>*decisions by Jan 15* | Clinical / research | ✅ |
 | Opens **September**, due **November**, offers **December** | **PQA APPE** | Quality / policy | ✅ |
 | **Oct 31** 🔎 | ~~NIH Clinical Center APPE~~ — **see correction below** | Federal | ⚠️ |
-| **Nov 1** | **AACP Association Management APPE** | Academia | 🔎 |
+| **Nov 1** 🔎 | **AACP Association Management APPE** (months: Sep, Oct, Jan, Mar, Apr) | Academia | 🔎 |
 | Opens ~Sep, due **Jan 1** 🔎 | **CDC PSEP** — *but see correction below* | Federal | ⚠️ |
-| **Jan 16** (priority) | **NACDS Association Management APPE** | Association | 🔎 |
+| **Jan 16** (priority) 🔎 | **NACDS APPE** — must be in **final didactic year**; chain experience preferred | Association | 🔎 |
 | Winter/spring | **SRCOSTEP** (paid, senior year) | Federal | 🔎 |
-| Annual, varies by school | **Cencora APPE** (wholesale distribution / supply chain) | Industry | ✅ |
-| Annual cycle | **AMCP**, **ASHP**, **ASCP** association APPEs | Association | 🔎 |
+| Annual, varies by school | **Cencora APPE** — 6 wks, wholesale distribution / supply chain / finance | Industry | ✅ |
+| **Rolling — no deadline** | **ASHP** Association Management APPE (not Dec/May/Jun/Jul) | Association | ✅ |
+| Annual cycle | **AMCP** (4–5 wks, flexible end date) · **ASCP** (2027–28 page live) | Association | ✅ |
 | Rolling | **APhA**, **NCPA**, **USP** | Association / standards | 🔎 |
+| Varies | **State pharmacy associations** (NC and CA have posted programs; others by inquiry) | Association | ✅ |
 | Via your OEE | **IHS APPE** | Federal | 🔎 |
 | Per-facility | **VA medical center APPEs** | Federal | 🔎 |
 | ❓ **Possibly open now** | **FDA PSEP** — pause notice is labeled **2026–27**; historical window is **Sep 1 – Oct 31** of P3 | Federal | ❓ |
@@ -39,7 +41,7 @@ research (September 3, 2026) and still need verification — see
 
 ---
 
-## ⚠️ Two corrections to my earlier draft
+## ⚠️ Corrections to my earlier draft
 
 **NIH Clinical Center — the October 31 deadline is not confirmed.**
 The July 2026 review states plainly that *"the prior October 31 deadline and old PDF were not
@@ -123,6 +125,29 @@ Straight from the July 2026 document — these are the ones you can plan against
 - **How to apply:** ask your experiential office whether your school is a **participating
   university**, and request the current application, internal nomination process, and deadline.
   Cencora does not publish a single national student application or universal deadline.
+
+---
+
+## The rolling programs are your safety net
+
+Not everything has a cliff. These accept applications **year-round or on a flexible cycle**,
+which makes them the right move when a block-deadline program passes you by:
+
+| Program | Note |
+| --- | --- |
+| **ASHP** ✅ | **No deadline** — ongoing, year-round. Requires active ASHP membership. Not Dec/May/Jun/Jul. |
+| **APhA** 🔎 | Year-round; decisions typically within about a month |
+| **NCPA** 🔎 | Year-round; flexible 4–6 week scheduling |
+| **USP** 🔎 | Select non-traditional APPEs offered throughout the year |
+| **CDC** ✅ | No fixed deadline — email pharmacists@cdc.gov |
+| **NIH Clinical Center** ✅ | School-arranged inquiry, no application window |
+| **State pharmacy associations** ✅ | Mostly by inquiry; small staffs, low competition |
+| **The ~12 school-arranged companies** ✅ | See [04](04-industry-and-regulatory.md) — all via your OEE |
+
+**Strategic read:** front-load the hard deadlines (BMS, St. Jude, PQA, ACCP) in September and
+October, then work the rolling list through the winter as you learn which blocks are still
+open in your schedule. Don't spend September on a rolling program at the cost of a
+19-day window.
 
 ---
 
